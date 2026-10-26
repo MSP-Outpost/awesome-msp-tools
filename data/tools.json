@@ -1,0 +1,2660 @@
+[
+  {
+    "name": "Aorka",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/aorka",
+    "description": "An AI operator that learns client environments and executes approved fixes."
+  },
+  {
+    "name": "ConnectWise Sidekick",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/connectwise-sidekick",
+    "description": "AI assistance for ticket triage, summaries and service-desk responses."
+  },
+  {
+    "name": "Cooper Copilot for Autotask PSA",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/cooper-copilot-for-autotask-psa",
+    "description": "AI assistance in Autotask that helps technicians review, triage, and communicate about tickets."
+  },
+  {
+    "name": "CrushBank AI Knowledge Management",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/crushbank-ai-knowledge-management",
+    "description": "Search support knowledge and classify Autotask service tickets"
+  },
+  {
+    "name": "DaemonLayer",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/daemonlayer",
+    "description": "Automate Autotask ticket triage and common service requests."
+  },
+  {
+    "name": "Freddy AI for Freshservice",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/freddy-ai-for-freshservice",
+    "description": "AI agents, copilot assistance, and service insights built into Freshservice."
+  },
+  {
+    "name": "Junto",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/junto",
+    "description": "Bring PSA and environment context into AI-assisted service desk work."
+  },
+  {
+    "name": "Mizo",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/mizo",
+    "description": "AI agents handle MSP ticket intake, resolution, and review."
+  },
+  {
+    "name": "MSP Process",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/msp-process",
+    "description": "AI intake, verification and ticket workflows across client channels"
+  },
+  {
+    "name": "Neo Agent",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/neo-agent",
+    "description": "AI agents automate repetitive MSP service desk work."
+  },
+  {
+    "name": "SuperIT",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/superit",
+    "description": "AI agents investigate and resolve service desk tickets."
+  },
+  {
+    "name": "Tasky",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/tasky",
+    "description": "Discuss and update Autotask tickets from dedicated Slack channels."
+  },
+  {
+    "name": "Thread",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/thread",
+    "description": "Handle service conversations in chat while keeping Autotask current."
+  },
+  {
+    "name": "Uniportal",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/uniportal",
+    "description": "Resolve routine MSP helpdesk tickets from inside the PSA."
+  },
+  {
+    "name": "Vight AI",
+    "category": "AI Service Desk Assistants",
+    "url": "https://mspoutpost.com/tools/vight-ai",
+    "description": "Turn support calls into searchable notes and PSA records."
+  },
+  {
+    "name": "AFAS ERP and Finance",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/afas-erp-and-finance",
+    "description": "Automate finance and ERP workflows in one business platform"
+  },
+  {
+    "name": "Aptean SouthWare ERP",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/aptean-southware-erp",
+    "description": "Manage distribution and service operations with SouthWare ERP."
+  },
+  {
+    "name": "AT2Sage",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/at2sage",
+    "description": "Transfer Autotask invoices into Sage 50 for posting."
+  },
+  {
+    "name": "Autonox",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/autonox",
+    "description": "Synchronize Autotask customers, products, services, and invoices with Fortnox"
+  },
+  {
+    "name": "DriveDollar",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/drivedollar",
+    "description": "Mileage and travel expense capture linked to Autotask"
+  },
+  {
+    "name": "Exact Online",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/exact-online",
+    "description": "Cloud accounting and business software for SMEs"
+  },
+  {
+    "name": "Fortnox",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/fortnox",
+    "description": "Cloud accounting and business software for Swedish companies"
+  },
+  {
+    "name": "Fortnox integration by Essensus",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/fortnox-integration-by-essensus",
+    "description": "Sync Autotask billing data with Fortnox accounting"
+  },
+  {
+    "name": "Jim2 Business Engine",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/jim2-business-engine",
+    "description": "Connect Autotask service tickets and billings with Jim2 jobs"
+  },
+  {
+    "name": "Macali Autotask Connect",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/macali-autotask-connect",
+    "description": "Synchronize Autotask PSA with Business Central"
+  },
+  {
+    "name": "PracBill",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/pracbill",
+    "description": "Rate and invoice telecommunications usage alongside PSA service work."
+  },
+  {
+    "name": "QCommission",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/qcommission",
+    "description": "Automate sales commission calculations and incentive plans."
+  },
+  {
+    "name": "QuickBooks Online",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/quickbooks-online",
+    "description": "Cloud accounting for invoices, expenses and financial reporting"
+  },
+  {
+    "name": "Sage 50 Accounts",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/sage-50-accounts",
+    "description": "Manage accounts, cash flow, and business finances with Sage 50."
+  },
+  {
+    "name": "Sage Accounting",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/sage-accounting",
+    "description": "Cloud accounting for invoices, cash flow, tax, and payments"
+  },
+  {
+    "name": "SnelStart accounting software",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/snelstart-accounting-software",
+    "description": "Bookkeeping, invoicing, and banking in one business app"
+  },
+  {
+    "name": "SouthWare by CFS",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/southware-by-cfs",
+    "description": "Transfer Autotask customer, contract, quote, and invoice data into SouthWare."
+  },
+  {
+    "name": "Systemhaus.One",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/systemhaus-one",
+    "description": "ERP, finance and service workflows for IT system houses"
+  },
+  {
+    "name": "TaxJar",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/taxjar",
+    "description": "Sales tax automation for calculations, reporting, filing and remittance."
+  },
+  {
+    "name": "upSync",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/upsync",
+    "description": "Send Autotask invoices to Xero with customer mappings."
+  },
+  {
+    "name": "WisePay and Wise-Sync",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/wise-sync-wise-pay",
+    "description": "Autotask invoice synchronization and payment collection"
+  },
+  {
+    "name": "Xero",
+    "category": "Accounting",
+    "url": "https://mspoutpost.com/tools/xero",
+    "description": "Cloud accounting software for invoicing and financial management."
+  },
+  {
+    "name": "Backup Radar",
+    "category": "Backup Monitoring",
+    "url": "https://mspoutpost.com/tools/backup-radar",
+    "description": "Monitor backup jobs and manage backup response workflows for MSP clients"
+  },
+  {
+    "name": "Acronis Cyber Protect",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/acronis-cyber-protect",
+    "description": "Integrated backup, recovery and endpoint protection for client workloads."
+  },
+  {
+    "name": "Arcserve",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/arcserve",
+    "description": "Backup, recovery, and disaster recovery management across on-premises and cloud workloads."
+  },
+  {
+    "name": "Axcient x360Recover",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/axcient-x360recover",
+    "description": "Backup and disaster recovery for MSP-managed client systems, with cloud and appliance deployment options."
+  },
+  {
+    "name": "Backblaze Business Backup",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/backblaze-business-backup",
+    "description": "Automatic cloud backup and centralized administration for business computers."
+  },
+  {
+    "name": "Bocada Cloud",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/bocada-cloud",
+    "description": "Monitor backup health and protection across customer environments."
+  },
+  {
+    "name": "Cove Data Protection",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/cove-data-protection",
+    "description": "Cloud-first backup and disaster recovery managed from a centralized console."
+  },
+  {
+    "name": "Datto BCDR",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/datto-bcdr",
+    "description": "Business continuity and disaster recovery with local and cloud backup copies."
+  },
+  {
+    "name": "Datto SaaS Protection",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/datto-saas-protection",
+    "description": "Automated backup and granular recovery for Microsoft 365 and Google Workspace data."
+  },
+  {
+    "name": "Enterprotect",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/enterprotect",
+    "description": "Microsoft 365 backup for MSPs, with additional protection products on the roadmap."
+  },
+  {
+    "name": "Keepit",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/keepit",
+    "description": "Cloud-to-cloud backup and recovery for SaaS application data."
+  },
+  {
+    "name": "MSP360",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/msp360",
+    "description": "Managed backup software for endpoint, server, cloud and Microsoft 365 data."
+  },
+  {
+    "name": "NAKIVO Backup & Replication",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/nakivo-backup-replication",
+    "description": "Backup, replication, and disaster recovery for virtual, physical, cloud, and SaaS environments."
+  },
+  {
+    "name": "NinjaOne SaaS Backup",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/ninjaone-saas-backup",
+    "description": "Automated backup and granular recovery for Microsoft 365 and Google Workspace data."
+  },
+  {
+    "name": "OpenText Core Endpoint Backup (formerly Carbonite Endpoint Protection)",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/carbonite",
+    "description": "Centrally managed cloud backup and recovery for employee laptops and desktops."
+  },
+  {
+    "name": "Unitrends",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/unitrends",
+    "description": "Backup, replication and recovery software for physical and virtual workloads."
+  },
+  {
+    "name": "Veeam",
+    "category": "Backup and Recovery",
+    "url": "https://mspoutpost.com/tools/veeam",
+    "description": "Backup, security, and recovery for virtual, physical, cloud, and SaaS workloads."
+  },
+  {
+    "name": "Atakama Browser Security Platform",
+    "category": "Browser Security",
+    "url": "https://mspoutpost.com/tools/atakama-browser-security-platform",
+    "description": "Manage browser security policies across MSP client environments."
+  },
+  {
+    "name": "Binox MSP",
+    "category": "CRM and Sales",
+    "url": "https://mspoutpost.com/tools/binox-msp",
+    "description": "Source MSP sales prospects and move leads into Autotask"
+  },
+  {
+    "name": "ChannelOnline",
+    "category": "CRM and Sales",
+    "url": "https://mspoutpost.com/tools/channelonline",
+    "description": "Manage product data, quoting, and orders through a reseller storefront"
+  },
+  {
+    "name": "Dynamics 365 Sales",
+    "category": "CRM and Sales",
+    "url": "https://mspoutpost.com/tools/dynamics-365-sales",
+    "description": "Sales CRM for managing customer relationships and revenue"
+  },
+  {
+    "name": "HubSpot CRM",
+    "category": "CRM and Sales",
+    "url": "https://mspoutpost.com/tools/hubspot-crm",
+    "description": "CRM for customer records, sales and service teams"
+  },
+  {
+    "name": "Salesforce CRM",
+    "category": "CRM and Sales",
+    "url": "https://mspoutpost.com/tools/salesforce-crm",
+    "description": "Customer relationship management for sales and service teams"
+  },
+  {
+    "name": "VARCommerce",
+    "category": "CRM and Sales",
+    "url": "https://mspoutpost.com/tools/varcommerce",
+    "description": "Coordinate VAR quoting, procurement, orders, and reporting in one platform."
+  },
+  {
+    "name": "Zoho CRM",
+    "category": "CRM and Sales",
+    "url": "https://mspoutpost.com/tools/zoho-crm",
+    "description": "CRM for managing customer-facing sales workflows"
+  },
+  {
+    "name": "Adaptive Catalog",
+    "category": "Cloud Marketplace Management",
+    "url": "https://mspoutpost.com/tools/adaptive-catalog",
+    "description": "Build a curated product storefront and connect quotes with Autotask."
+  },
+  {
+    "name": "ALSO Cloud Marketplace",
+    "category": "Cloud Marketplace Management",
+    "url": "https://mspoutpost.com/tools/also-cloud-marketplace",
+    "description": "Procure and manage cloud services through ALSO’s marketplace"
+  },
+  {
+    "name": "Cloudmore",
+    "category": "Cloud Marketplace Management",
+    "url": "https://mspoutpost.com/tools/cloudmore",
+    "description": "Manage and bill cloud subscriptions across MSP customer accounts"
+  },
+  {
+    "name": "CSP Control Center",
+    "category": "Cloud Marketplace Management",
+    "url": "https://mspoutpost.com/tools/csp-control-center",
+    "description": "Manage Microsoft CSP subscriptions, customer billing, and partner operations."
+  },
+  {
+    "name": "CSP Portal",
+    "category": "Cloud Marketplace Management",
+    "url": "https://mspoutpost.com/tools/csp-portal",
+    "description": "Manage cloud subscriptions and synchronize billing workflows"
+  },
+  {
+    "name": "Ingram Micro Cloud Marketplace",
+    "category": "Cloud Marketplace Management",
+    "url": "https://mspoutpost.com/tools/ingram-micro-cloud-marketplace",
+    "description": "Automated cloud commerce marketplace for resellers"
+  },
+  {
+    "name": "ITCloud Partner Portal",
+    "category": "Cloud Marketplace Management",
+    "url": "https://mspoutpost.com/tools/itcloud-partner-portal",
+    "description": "Cloud services and subscription management for partners"
+  },
+  {
+    "name": "Pax8 Marketplace",
+    "category": "Cloud Marketplace Management",
+    "url": "https://mspoutpost.com/tools/pax8-cloud-marketplace",
+    "description": "Cloud product procurement and subscription management for MSPs"
+  },
+  {
+    "name": "Sherweb Cloud Marketplace",
+    "category": "Cloud Marketplace Management",
+    "url": "https://mspoutpost.com/tools/sherweb-cloud-marketplace",
+    "description": "Cloud products and partner services for MSPs"
+  },
+  {
+    "name": "TD SYNNEX StreamOne Ion",
+    "category": "Cloud Marketplace Management",
+    "url": "https://mspoutpost.com/tools/td-synnex-streamone-ion",
+    "description": "Manage cloud subscriptions and reconcile customer billing across partner systems."
+  },
+  {
+    "name": "Westcoast Cloud Marketplace",
+    "category": "Cloud Marketplace Management",
+    "url": "https://mspoutpost.com/tools/westcoast-cloud-marketplace",
+    "description": "Manage cloud subscriptions and services through Westcoast Cloud"
+  },
+  {
+    "name": "Work 365",
+    "category": "Cloud Marketplace Management",
+    "url": "https://mspoutpost.com/tools/work-365",
+    "description": "Subscription management and billing for Microsoft cloud services"
+  },
+  {
+    "name": "11:11 Cloud (IaaS/DRaaS/BaaS)",
+    "category": "Cloud and Hosting",
+    "url": "https://mspoutpost.com/tools/11-11-cloud-iaas-draas-baas",
+    "description": "VMware-based cloud hosting with built-in backup and disaster recovery options."
+  },
+  {
+    "name": "Backblaze B2 Cloud Storage",
+    "category": "Cloud and Hosting",
+    "url": "https://mspoutpost.com/tools/backblaze-b2-cloud-storage",
+    "description": "S3-compatible object storage for backups, archives and data-intensive workloads."
+  },
+  {
+    "name": "Liquid Web Managed Hosting",
+    "category": "Cloud and Hosting",
+    "url": "https://mspoutpost.com/tools/liquid-web-managed-hosting",
+    "description": "Managed hosting across VPS, dedicated, and cloud infrastructure."
+  },
+  {
+    "name": "OVHcloud",
+    "category": "Cloud and Hosting",
+    "url": "https://mspoutpost.com/tools/ovhcloud",
+    "description": "Cloud infrastructure and managed services spanning compute, storage, networking, and containers."
+  },
+  {
+    "name": "phoenixNAP Bare Metal Cloud",
+    "category": "Cloud and Hosting",
+    "url": "https://mspoutpost.com/tools/phoenixnap-bare-metal-cloud",
+    "description": "API-driven provisioning and management of dedicated physical servers."
+  },
+  {
+    "name": "Rackspace Technology Managed Cloud",
+    "category": "Cloud and Hosting",
+    "url": "https://mspoutpost.com/tools/rackspace-technology-managed-cloud",
+    "description": "Managed public, private, and hybrid cloud services."
+  },
+  {
+    "name": "Wasabi Hot Cloud Storage",
+    "category": "Cloud and Hosting",
+    "url": "https://mspoutpost.com/tools/wasabi-hot-cloud-storage",
+    "description": "S3-compatible cloud object storage for backup, recovery, and application data."
+  },
+  {
+    "name": "0gaps",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/0gaps",
+    "description": "Find MSP prospects through public-infrastructure risk signals."
+  },
+  {
+    "name": "ASCII Edge",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/ascii-edge",
+    "description": "Two-day conference series for MSP owners and service leaders."
+  },
+  {
+    "name": "Channel Partners Conference & Expo",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/channel-partners-conference-expo",
+    "description": "Conference and expo connecting technology channel professionals, providers, and MSPs."
+  },
+  {
+    "name": "ChannelCon",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/channelcon",
+    "description": "IT channel conference with education, peer networking and industry programming."
+  },
+  {
+    "name": "GlassHive",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/glasshive",
+    "description": "CRM and marketing automation for IT service providers"
+  },
+  {
+    "name": "GTIA Communities & Councils",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/gtia-communities-councils",
+    "description": "Peer communities and advisory councils for technology channel professionals."
+  },
+  {
+    "name": "IT Nation Connect",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/it-nation-connect",
+    "description": "A conference for MSP owners, technicians, and technology partners to learn and connect."
+  },
+  {
+    "name": "IT Nation Evolve",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/it-nation-evolve",
+    "description": "Peer groups and structured business-development programs for MSP leaders."
+  },
+  {
+    "name": "JoomConnect Platform",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/joomconnect-platform",
+    "description": "Marketing automation connected to MSP sales and service workflows"
+  },
+  {
+    "name": "Kaseya Connect",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/kaseya-connect",
+    "description": "Kaseya’s conference for IT professionals and MSPs."
+  },
+  {
+    "name": "Kaseya MSP Success",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/kaseya-msp-success",
+    "description": "Peer groups, marketing programs, and community resources for MSP growth."
+  },
+  {
+    "name": "Mindmatrix AMP",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/mindmatrix-amp",
+    "description": "Partner marketing automation and sales enablement"
+  },
+  {
+    "name": "MSP Launchpad",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/msp-launchpad",
+    "description": "Inbound lead generation and marketing services built for MSPs."
+  },
+  {
+    "name": "MSP Marketing Edge",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/msp-marketing-edge",
+    "description": "Marketing content and implementation services for MSPs."
+  },
+  {
+    "name": "Pax8 Academy",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/pax8-academy",
+    "description": "Education, instructor-led training, peer groups, and coaching for Pax8 partners."
+  },
+  {
+    "name": "SiteSpot",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/sitespot",
+    "description": "Done-for-you websites and digital marketing for MSPs"
+  },
+  {
+    "name": "Tech Pro Marketing",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/tech-pro-marketing",
+    "description": "Digital marketing and lead-generation services focused on MSPs."
+  },
+  {
+    "name": "Technology Marketing Toolkit",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/technology-marketing-toolkit",
+    "description": "Marketing systems, coaching, and campaign resources for MSPs and IT services firms."
+  },
+  {
+    "name": "The Lead Machine",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/marketopia-lead-machine",
+    "description": "MSP lead generation and marketing programs"
+  },
+  {
+    "name": "TruMethods",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/trumethods",
+    "description": "MSP business training and peer support through the TruPeer program."
+  },
+  {
+    "name": "XChange",
+    "category": "Coaching and Growth",
+    "url": "https://mspoutpost.com/tools/coaching-and-growth/xchange",
+    "description": "Channel conferences for MSP leaders, solution providers and technology vendors."
+  },
+  {
+    "name": "Assurix Trusted MSP",
+    "category": "Compliance",
+    "url": "https://mspoutpost.com/tools/assurix-trusted-msp",
+    "description": "Build MSP assurance from ongoing evidence across business systems."
+  },
+  {
+    "name": "Blacksmith InfoSec",
+    "category": "Compliance",
+    "url": "https://mspoutpost.com/tools/blacksmith-infosec",
+    "description": "Coordinate client security policies, risk, and compliance work."
+  },
+  {
+    "name": "Compliance Manager GRC",
+    "category": "Compliance",
+    "url": "https://mspoutpost.com/tools/compliance-manager-grc",
+    "description": "Guided compliance and risk workflows for MSPs and their clients."
+  },
+  {
+    "name": "ConnectSecure",
+    "category": "Compliance",
+    "url": "https://mspoutpost.com/tools/connectsecure",
+    "description": "Multi-client vulnerability and compliance management for MSP security teams."
+  },
+  {
+    "name": "ControlMap",
+    "category": "Compliance",
+    "url": "https://mspoutpost.com/tools/controlmap",
+    "description": "Compliance and GRC platform for MSPs managing client assessments, evidence, risk, and audits."
+  },
+  {
+    "name": "Drata",
+    "category": "Compliance",
+    "url": "https://mspoutpost.com/tools/drata",
+    "description": "Compliance automation with continuous control monitoring and evidence collection."
+  },
+  {
+    "name": "FortMesa Operations Center",
+    "category": "Compliance",
+    "url": "https://mspoutpost.com/tools/fortmesa-operations-center",
+    "description": "Standardize and track cybersecurity compliance services across clients"
+  },
+  {
+    "name": "Hyperproof",
+    "category": "Compliance",
+    "url": "https://mspoutpost.com/tools/hyperproof",
+    "description": "Compliance operations software for coordinating controls, evidence, and audits."
+  },
+  {
+    "name": "Secureframe",
+    "category": "Compliance",
+    "url": "https://mspoutpost.com/tools/secureframe",
+    "description": "Security compliance platform for managing controls, evidence, and audit readiness."
+  },
+  {
+    "name": "Thoropass",
+    "category": "Compliance",
+    "url": "https://mspoutpost.com/tools/thoropass",
+    "description": "Compliance automation and audit workflows in a shared platform."
+  },
+  {
+    "name": "Vanta",
+    "category": "Compliance",
+    "url": "https://mspoutpost.com/tools/vanta",
+    "description": "Trust management platform for security, compliance, and vendor risk."
+  },
+  {
+    "name": "Crewhu",
+    "category": "Customer Experience",
+    "url": "https://mspoutpost.com/tools/crewhu",
+    "description": "Measure customer feedback and service metrics from Autotask tickets"
+  },
+  {
+    "name": "Customer Thermometer",
+    "category": "Customer Experience",
+    "url": "https://mspoutpost.com/tools/customer-thermometer",
+    "description": "Collect ticket-level customer feedback from Autotask email surveys"
+  },
+  {
+    "name": "DeskDirector",
+    "category": "Customer Experience",
+    "url": "https://mspoutpost.com/tools/deskdirector",
+    "description": "Give customers a portal for support requests and ticket updates"
+  },
+  {
+    "name": "Helpdesk Buttons",
+    "category": "Customer Experience",
+    "url": "https://mspoutpost.com/tools/helpdesk-buttons",
+    "description": "Give users simple, branded buttons to reach an MSP helpdesk."
+  },
+  {
+    "name": "ITSupportPanel",
+    "category": "Customer Experience",
+    "url": "https://mspoutpost.com/tools/invarosoft-it-support-panel",
+    "description": "Branded client support portal and apps for MSPs"
+  },
+  {
+    "name": "LoyaltyLoop",
+    "category": "Customer Experience",
+    "url": "https://mspoutpost.com/tools/loyaltyloop",
+    "description": "Automate post-ticket feedback surveys and review requests."
+  },
+  {
+    "name": "MSPortal.ai",
+    "category": "Customer Experience",
+    "url": "https://mspoutpost.com/tools/msportal-ai",
+    "description": "Give clients a shared portal for service, assets, training, and planning."
+  },
+  {
+    "name": "Sainer AI Receptionist",
+    "category": "Customer Experience",
+    "url": "https://mspoutpost.com/tools/sainer-ai-receptionist",
+    "description": "Answer business calls with an AI receptionist around the clock."
+  },
+  {
+    "name": "Simplesat",
+    "category": "Customer Experience",
+    "url": "https://mspoutpost.com/tools/simplesat",
+    "description": "Customer satisfaction surveys and feedback analytics"
+  },
+  {
+    "name": "SmileBack",
+    "category": "Customer Experience",
+    "url": "https://mspoutpost.com/tools/smileback",
+    "description": "Collect MSP customer satisfaction feedback and track NPS."
+  },
+  {
+    "name": "Wiseserve App",
+    "category": "Customer Experience",
+    "url": "https://mspoutpost.com/tools/wiseserve-app",
+    "description": "Let clients raise and manage support tickets from a mobile app."
+  },
+  {
+    "name": "Coalition Cyber Insurance",
+    "category": "Cyber Insurance and Warranty",
+    "url": "https://mspoutpost.com/tools/coalition-cyber-insurance",
+    "description": "Cyber insurance paired with risk assessment, security monitoring, and incident response resources."
+  },
+  {
+    "name": "Cork Cyber Warranty",
+    "category": "Cyber Insurance and Warranty",
+    "url": "https://mspoutpost.com/tools/cork-cyber-warranty",
+    "description": "Cyber-risk visibility and financial protection services for MSP client environments."
+  },
+  {
+    "name": "DataStream Cyber Insurance",
+    "category": "Cyber Insurance and Warranty",
+    "url": "https://mspoutpost.com/tools/datastream-cyber-insurance",
+    "description": "Cyber insurance brokerage and readiness services for MSP clients."
+  },
+  {
+    "name": "Forcepoint DLP",
+    "category": "DLP and Email Encryption",
+    "url": "https://mspoutpost.com/tools/forcepoint-dlp",
+    "description": "Data loss prevention policies across cloud, web, email, network and endpoint channels."
+  },
+  {
+    "name": "OpenText Core Email Message Privacy (formerly Zix)",
+    "category": "DLP and Email Encryption",
+    "url": "https://mspoutpost.com/tools/opentext-core-email-message-privacy-formerly-zix",
+    "description": "Encrypted email and controlled file sharing for sensitive messages."
+  },
+  {
+    "name": "Trustifi",
+    "category": "DLP and Email Encryption",
+    "url": "https://mspoutpost.com/tools/trustifi",
+    "description": "Email security covering encryption, data loss prevention, and inbound and outbound protection."
+  },
+  {
+    "name": "Virtru Data Security Platform",
+    "category": "DLP and Email Encryption",
+    "url": "https://mspoutpost.com/tools/virtru-data-security-platform",
+    "description": "Persistent encryption and access controls for shared email, files and application data."
+  },
+  {
+    "name": "Cisco Secure Access, DNS Defense (formerly Cisco Umbrella DNS)",
+    "category": "DNS and Web Filtering",
+    "url": "https://mspoutpost.com/tools/cisco-secure-access-cisco-umbrella",
+    "description": "Cloud-delivered DNS-layer protection with a path to broader secure access services."
+  },
+  {
+    "name": "CloudGen Firewall / Web Security Gateway",
+    "category": "DNS and Web Filtering",
+    "url": "https://mspoutpost.com/tools/cloudgen-firewall-web-security-gateway",
+    "description": "Network security with CloudGen Firewall, plus separate Web Security Gateway filtering."
+  },
+  {
+    "name": "DNSFilter",
+    "category": "DNS and Web Filtering",
+    "url": "https://mspoutpost.com/tools/dnsfilter",
+    "description": "DNS threat and content filtering with client-level management for MSPs."
+  },
+  {
+    "name": "WebTitan DNS Filtering",
+    "category": "DNS and Web Filtering",
+    "url": "https://mspoutpost.com/tools/webtitan-dns-filtering",
+    "description": "Cloud DNS filtering to block harmful sites and apply web access policies."
+  },
+  {
+    "name": "Zero Trust Exchange (Internet Access)",
+    "category": "DNS and Web Filtering",
+    "url": "https://mspoutpost.com/tools/zero-trust-exchange-internet-access",
+    "description": "Cloud-delivered secure internet access and threat protection for users and applications."
+  },
+  {
+    "name": "Constella Intelligence (Hunter / Domain Monitoring)",
+    "category": "Dark Web Monitoring",
+    "url": "https://mspoutpost.com/tools/constella-intelligence-hunter-domain-monitoring",
+    "description": "Digital risk protection using exposed identity and credential intelligence."
+  },
+  {
+    "name": "Dark Web ID",
+    "category": "Dark Web Monitoring",
+    "url": "https://mspoutpost.com/tools/dark-web-id",
+    "description": "Dark-web intelligence and monitoring for compromised customer credentials and data."
+  },
+  {
+    "name": "Flare",
+    "category": "Dark Web Monitoring",
+    "url": "https://mspoutpost.com/tools/flare",
+    "description": "Threat intelligence and external exposure monitoring across the dark and clear web."
+  },
+  {
+    "name": "SpyCloud",
+    "category": "Dark Web Monitoring",
+    "url": "https://mspoutpost.com/tools/spycloud",
+    "description": "Identity threat protection using recaptured breach, malware, and phishing data."
+  },
+  {
+    "name": "Workspace 365",
+    "category": "Digital Workplace",
+    "url": "https://mspoutpost.com/tools/workspace-365",
+    "description": "Give users one workspace for apps, information, and service tickets."
+  },
+  {
+    "name": "Document360",
+    "category": "Documentation",
+    "url": "https://mspoutpost.com/tools/document360",
+    "description": "AI-powered knowledge-base platform for customer-facing and internal documentation."
+  },
+  {
+    "name": "Documentation (ITBoost)",
+    "category": "Documentation",
+    "url": "https://mspoutpost.com/tools/documentation-itboost",
+    "description": "Centralized IT documentation and knowledge base for MSP teams."
+  },
+  {
+    "name": "Hudu",
+    "category": "Documentation",
+    "url": "https://mspoutpost.com/tools/hudu",
+    "description": "IT documentation, credential, asset, and process management across client environments."
+  },
+  {
+    "name": "IT Glue",
+    "category": "Documentation",
+    "url": "https://mspoutpost.com/tools/it-glue",
+    "description": "Structured IT documentation and asset knowledge for service teams."
+  },
+  {
+    "name": "IT Portal",
+    "category": "Documentation",
+    "url": "https://mspoutpost.com/tools/it-portal",
+    "description": "Client-aware IT documentation for MSP teams"
+  },
+  {
+    "name": "Liongard",
+    "category": "Documentation",
+    "url": "https://mspoutpost.com/tools/liongard",
+    "description": "Automated asset discovery and configuration documentation for MSPs."
+  },
+  {
+    "name": "Passportal",
+    "category": "Documentation",
+    "url": "https://mspoutpost.com/tools/passportal",
+    "description": "Cloud-based privileged access and documentation management for MSPs."
+  },
+  {
+    "name": "Abnormal Security",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/abnormal-security",
+    "description": "Behavioral AI email security for phishing, account takeover and business email compromise."
+  },
+  {
+    "name": "Barracuda Email Protection",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/barracuda-email-protection",
+    "description": "Multi-tenant email protection and response for MSPs managing customer environments."
+  },
+  {
+    "name": "CyberSentriq Email Protection",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/cybersentriq-email-protection",
+    "description": "Microsoft 365 email security for MSPs, with detection, remediation, quarantine, and reporting."
+  },
+  {
+    "name": "DMARCER",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/dmarcer",
+    "description": "Manage email authentication across client domains and sync PSA records."
+  },
+  {
+    "name": "Harmony Email",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/harmony-email",
+    "description": "Cloud email and collaboration protection for phishing, malware and data leakage."
+  },
+  {
+    "name": "IRONSCALES",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/ironscales",
+    "description": "Cloud email security for detecting and responding to phishing threats."
+  },
+  {
+    "name": "KnowBe4 Cloud Email Security",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/knowbe4-cloud-email-security",
+    "description": "Microsoft 365 email threat defense, outbound protection, and policy-based encryption."
+  },
+  {
+    "name": "Libraesva Email Security",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/libraesva-email-security",
+    "description": "AI-driven email security with flexible local or cloud deployment."
+  },
+  {
+    "name": "Mail Assure",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/mail-assure",
+    "description": "Cloud email protection, continuity, and archiving for MSP clients."
+  },
+  {
+    "name": "Mailprotector CloudFilter",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/mailprotector-cloudfilter",
+    "description": "Email gateway security for mixed client environments"
+  },
+  {
+    "name": "Mimecast",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/mimecast",
+    "description": "Cloud email threat protection and security awareness tools for email and collaboration risks."
+  },
+  {
+    "name": "Palisade Email",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/palisade-email",
+    "description": "Automate DMARC monitoring and remediation across MSP client domains."
+  },
+  {
+    "name": "PowerDMARC",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/powerdmarc",
+    "description": "Manage email authentication and sync domain services with Autotask."
+  },
+  {
+    "name": "Proofpoint 365 Total Protection",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/proofpoint-365-total-protection",
+    "description": "Microsoft 365 security, backup and compliance tools for MSPs."
+  },
+  {
+    "name": "Sendmarc",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/sendmarc",
+    "description": "Manage DMARC and automate Autotask service billing for client domains."
+  },
+  {
+    "name": "Sophos Email",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/sophos-email",
+    "description": "Email security that detects phishing, impersonation, malware, and data loss."
+  },
+  {
+    "name": "Vade for M365",
+    "category": "Email Security",
+    "url": "https://mspoutpost.com/tools/vade-for-m365",
+    "description": "Microsoft 365 email security using behavioral analysis to detect phishing and malware."
+  },
+  {
+    "name": "BeachheadSecure",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/beachheadsecure",
+    "description": "Manage endpoint encryption and security policies across MSP clients"
+  },
+  {
+    "name": "Blackpoint Cyber",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/blackpoint-cyber",
+    "description": "Managed detection and response with a 24/7 human-led security operations center."
+  },
+  {
+    "name": "Capture Client",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/capture-client",
+    "description": "Endpoint protection and detection managed through SonicWall’s cloud console."
+  },
+  {
+    "name": "Coro",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/coro",
+    "description": "Modular cybersecurity platform combining email, endpoint, cloud, network, and data protection."
+  },
+  {
+    "name": "CrowdStrike Falcon",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/crowdstrike-falcon",
+    "description": "Endpoint protection, detection and response on the Falcon platform."
+  },
+  {
+    "name": "Cynet",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/cynet",
+    "description": "Unified XDR and managed detection and response for endpoint and cloud security."
+  },
+  {
+    "name": "ESET PROTECT MSP",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/eset-protect-msp",
+    "description": "Centralized endpoint security management for MSP customer environments."
+  },
+  {
+    "name": "ESET PSA Plugin",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/eset-psa-plugin",
+    "description": "Sync ESET endpoint usage and health with PSA ticketing and billing"
+  },
+  {
+    "name": "GravityZone",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/gravityzone",
+    "description": "Cloud endpoint security platform for MSP-managed customer environments."
+  },
+  {
+    "name": "Heimdal Security",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/heimdal-security",
+    "description": "Route security and operations alerts into Autotask tickets."
+  },
+  {
+    "name": "Huntress",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/huntress",
+    "description": "Managed detection, identity defense, and Microsoft 365 hardening supported by a 24/7 security operations center."
+  },
+  {
+    "name": "Kaseya MDR",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/kaseya-mdr",
+    "description": "Managed detection and response for endpoints, Microsoft 365 and firewalls."
+  },
+  {
+    "name": "SentinelOne",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/sentinelone",
+    "description": "Autonomous endpoint protection, detection, and response."
+  },
+  {
+    "name": "Sophos Central",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/sophos-central",
+    "description": "Connect managed Sophos Central services with Autotask tickets and billing."
+  },
+  {
+    "name": "Sophos MDR",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/sophos-mdr",
+    "description": "24/7 managed threat monitoring, hunting, investigation, and response across customer security tools."
+  },
+  {
+    "name": "ThreatDown",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/threatdown",
+    "description": "Multi-tenant endpoint security management for MSP customer environments."
+  },
+  {
+    "name": "ThreatLocker",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/threatlocker",
+    "description": "Zero Trust security controls for application execution and behavior."
+  },
+  {
+    "name": "Todyl",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/todyl",
+    "description": "Unified security platform with SASE, endpoint protection, managed SIEM, and managed detection and response."
+  },
+  {
+    "name": "Trend Micro Apex One",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/trend-micro-apex-one",
+    "description": "Endpoint security with malware prevention, detection and investigation tools."
+  },
+  {
+    "name": "Trend Micro Remote Manager",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/trend-micro-remote-manager",
+    "description": "Centralized administration and event delivery for Trend Micro customer services"
+  },
+  {
+    "name": "WithSecure Elements",
+    "category": "Endpoint Security",
+    "url": "https://mspoutpost.com/tools/withsecure-elements",
+    "description": "Manage endpoint and managed security services through Elements Cloud."
+  },
+  {
+    "name": "Exact Globe",
+    "category": "Enterprise Resource Planning",
+    "url": "https://mspoutpost.com/tools/exact-globe",
+    "description": "Business management software for finance and operations"
+  },
+  {
+    "name": "Microsoft Dynamics 365",
+    "category": "Enterprise Resource Planning",
+    "url": "https://mspoutpost.com/tools/microsoft-dynamics-365",
+    "description": "Cloud business applications for sales, service, finance, and operations"
+  },
+  {
+    "name": "Microsoft Dynamics 365 Business Central",
+    "category": "Enterprise Resource Planning",
+    "url": "https://mspoutpost.com/tools/microsoft-dynamics-365-business-central",
+    "description": "Business management and ERP for small and midsize organizations"
+  },
+  {
+    "name": "Microsoft Dynamics GP",
+    "category": "Enterprise Resource Planning",
+    "url": "https://mspoutpost.com/tools/microsoft-dynamics-gp",
+    "description": "On-premises ERP for financial and business management"
+  },
+  {
+    "name": "Unit4 ERP",
+    "category": "Enterprise Resource Planning",
+    "url": "https://mspoutpost.com/tools/unit4-erp",
+    "description": "Cloud ERP for finance, projects, procurement, and HR"
+  },
+  {
+    "name": "weclapp ERP",
+    "category": "Enterprise Resource Planning",
+    "url": "https://mspoutpost.com/tools/weclapp-erp",
+    "description": "Manage ERP, CRM, inventory, and commerce workflows"
+  },
+  {
+    "name": "ignio AIOps",
+    "category": "IT Operations Management",
+    "url": "https://mspoutpost.com/tools/ignio-aiops",
+    "description": "Use AIOps insights and automation for enterprise operations"
+  },
+  {
+    "name": "Jira Service Management",
+    "category": "IT Service Management",
+    "url": "https://mspoutpost.com/tools/jira-service-management",
+    "description": "Manage service requests and incidents with Jira workflows."
+  },
+  {
+    "name": "ManageEngine ServiceDesk Plus",
+    "category": "IT Service Management",
+    "url": "https://mspoutpost.com/tools/manageengine-servicedesk-plus",
+    "description": "Manage IT service requests, incidents, assets, and workflows."
+  },
+  {
+    "name": "ServiceNow IT Service Management",
+    "category": "IT Service Management",
+    "url": "https://mspoutpost.com/tools/servicenow-it-service-management",
+    "description": "Connect IT service workflows across enterprise teams."
+  },
+  {
+    "name": "Bigger Brains",
+    "category": "IT Training",
+    "url": "https://mspoutpost.com/tools/bigger-brains",
+    "description": "Deliver instructor-led e-learning courses through BrainStation."
+  },
+  {
+    "name": "1Password",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/1password",
+    "description": "Managed password vaults and technician controls for MSP client environments."
+  },
+  {
+    "name": "AuthPoint",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/authpoint",
+    "description": "Cloud-managed multi-factor authentication for user access to endpoints, VPNs, and cloud applications."
+  },
+  {
+    "name": "AutoElevate",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/autoelevate",
+    "description": "Review client privilege requests and record technician actions in Autotask"
+  },
+  {
+    "name": "Beyond Identity",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/beyond-identity",
+    "description": "Passwordless authentication with device-bound passkeys and continuous device trust."
+  },
+  {
+    "name": "Bitwarden",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/bitwarden",
+    "description": "Business password vaults with credential sharing, access controls, and self-hosted deployment options."
+  },
+  {
+    "name": "CyberFOX Password Manager",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/cyberfox-password-manager",
+    "description": "Multi-tenant password management for MSP teams and clients"
+  },
+  {
+    "name": "CyberQP QDesk",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/cyberqp-qdesk",
+    "description": "Verify users and manage end-user access from the help desk"
+  },
+  {
+    "name": "Duo",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/duo",
+    "description": "Multi-factor authentication for sign-ins to applications, networks, and devices."
+  },
+  {
+    "name": "Evo Security",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/evo-security",
+    "description": "Multi-tenant identity and privileged access management for MSP workflows."
+  },
+  {
+    "name": "JumpCloud",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/jumpcloud",
+    "description": "Cloud identity and endpoint management across desktop and mobile operating systems."
+  },
+  {
+    "name": "Keeper",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/keeper",
+    "description": "Business password and credential manager with encrypted vaults and team access controls."
+  },
+  {
+    "name": "LastPass",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/lastpass",
+    "description": "Business password vaults, secure credential sharing and access controls."
+  },
+  {
+    "name": "Microsoft Entra ID",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/microsoft-entra-id",
+    "description": "Cloud identity and access management with single sign-on and multifactor authentication."
+  },
+  {
+    "name": "NordPass Business",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/nordpass-business",
+    "description": "Team password storage with shared folders, access management, and password health monitoring."
+  },
+  {
+    "name": "OneLogin",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/onelogin",
+    "description": "Cloud identity management, single sign-on and MFA"
+  },
+  {
+    "name": "Rublon",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/rublon",
+    "description": "Multi-factor authentication for access to networks, servers, cloud applications, and Microsoft environments."
+  },
+  {
+    "name": "Traceless Security Platform",
+    "category": "Identity and Passwords",
+    "url": "https://mspoutpost.com/tools/traceless-security-platform",
+    "description": "Identity checks and protected data exchange for support workflows"
+  },
+  {
+    "name": "Alert Manager",
+    "category": "Incident Management",
+    "url": "https://mspoutpost.com/tools/alert-manager",
+    "description": "Parse incoming alerts and create or update Autotask tickets"
+  },
+  {
+    "name": "ilert",
+    "category": "Incident Management",
+    "url": "https://mspoutpost.com/tools/ilert",
+    "description": "On-call alerts and incident escalation for Autotask tickets"
+  },
+  {
+    "name": "OnPage Incident Alert Management",
+    "category": "Incident Management",
+    "url": "https://mspoutpost.com/tools/onpage-incident-alert-management",
+    "description": "Escalate critical service alerts to the right on-call technician"
+  },
+  {
+    "name": "Anteris Autotask REST API Client",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/anteris-autotask-rest-api-client",
+    "description": "Use a typed PHP client to work with the Autotask REST API"
+  },
+  {
+    "name": "ApplicationLink Cloud Middleware",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/applicationlink-cloud-middleware",
+    "description": "Automate invoice, account, purchase, and charge flows between business systems"
+  },
+  {
+    "name": "Appy Pie Connect",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/appy-pie-connect",
+    "description": "Automate workflows between Autotask and cloud apps without code"
+  },
+  {
+    "name": "Autotask + Dynamics 365 Business Central Connector",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/autotask-dynamics-365-business-central-connector",
+    "description": "Connect Autotask billing and customer data with Business Central"
+  },
+  {
+    "name": "Autotask + Dynamics 365 Connector",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/autotask-dynamics-365-connector",
+    "description": "Sync Autotask billing and payment status with Dynamics 365"
+  },
+  {
+    "name": "Autotask + Dynamics GP ConnectPack",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/autotask-dynamics-gp-connectpack",
+    "description": "Move Autotask billing items into Dynamics GP invoices"
+  },
+  {
+    "name": "AutotaskAPI PowerShell Wrapper",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/cyberdrain-autotask-api-powershell-wrapper",
+    "description": "PowerShell wrapper for the Autotask REST API"
+  },
+  {
+    "name": "AxeRoy ConnectPack for Salesforce and Autotask",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/axeroy-connectpack-salesforce-autotask",
+    "description": "Configurable Salesforce and Autotask data synchronization"
+  },
+  {
+    "name": "Boomi Integration",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/boomi-integration",
+    "description": "Connect Autotask with applications, data, and business workflows"
+  },
+  {
+    "name": "Cloud Depot Autotask to Xero Integration",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/cloud-depot-autotask-to-xero-integration",
+    "description": "Sync Autotask invoices and payment status with Xero"
+  },
+  {
+    "name": "Digital Bridge Connector Bridge",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/digital-bridge-connector-bridge",
+    "description": "Activate and manage TD SYNNEX integrations with configurable connector templates."
+  },
+  {
+    "name": "Flowgear",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/flowgear",
+    "description": "Build integration workflows with an Autotask PSA connector"
+  },
+  {
+    "name": "Help Desk Migration",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/help-desk-migration",
+    "description": "Automated customer-support data migration between platforms"
+  },
+  {
+    "name": "KaseyaOne",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/kaseyaone",
+    "description": "A central portal for Kaseya applications, subscriptions, billing and support."
+  },
+  {
+    "name": "Make (formerly Integromat) Autotask connector",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/make-formerly-integromat-autotask-connector",
+    "description": "Build automated workflows using Autotask API actions"
+  },
+  {
+    "name": "MSP Assist PSA Sync",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/msp-assist-psa-sync",
+    "description": "Synchronize Kaseya VSA tickets and assets with Autotask"
+  },
+  {
+    "name": "MSP Connect",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/msp-connect",
+    "description": "Route Guardian360 security findings into Autotask tickets."
+  },
+  {
+    "name": "ONEiO Integration-as-a-Service",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/oneio-integration-as-a-service",
+    "description": "Managed, no-code connections between Autotask and other systems"
+  },
+  {
+    "name": "Recursyv Managed Integration",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/recursyv-managed-integration",
+    "description": "Connect service desks with client and partner systems through managed integrations."
+  },
+  {
+    "name": "Support Fusion",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/support-fusion",
+    "description": "Sync service tickets and customer records between ITSM and PSA tools."
+  },
+  {
+    "name": "Zapier",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/zapier",
+    "description": "Build no-code workflows between Autotask and thousands of apps."
+  },
+  {
+    "name": "Zynk Workflow",
+    "category": "Integration Platforms",
+    "url": "https://mspoutpost.com/tools/zynk-workflow",
+    "description": "Automate data flows between accounting, ecommerce, CRM, and ERP systems."
+  },
+  {
+    "name": "Atria",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/atria",
+    "description": "Manage Active Directory, workspaces, and Microsoft 365 for MSP clients"
+  },
+  {
+    "name": "Augmentt",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/augmentt",
+    "description": "Multi-tenant Microsoft 365 security management and reporting for MSPs."
+  },
+  {
+    "name": "AvePoint Cloud Backup for Microsoft 365",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/avepoint-cloud-backup-for-microsoft-365",
+    "description": "Backup and granular recovery for Microsoft 365 content, permissions, and configuration."
+  },
+  {
+    "name": "CIPP",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/cipp",
+    "description": "Open-source Microsoft 365 management platform for managing customer tenants."
+  },
+  {
+    "name": "CoreView",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/coreview",
+    "description": "Delegated Microsoft 365 administration, governance and license management for MSPs."
+  },
+  {
+    "name": "EcpPro",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/ecppro",
+    "description": "Manage Microsoft tenants and automate license billing from one portal."
+  },
+  {
+    "name": "Inforcer",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/inforcer",
+    "description": "Standardize Microsoft 365 policies across managed tenants."
+  },
+  {
+    "name": "M365 Manager Plus",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/m365-manager-plus",
+    "description": "Microsoft 365 reporting and administration for users, mailboxes, groups, and services."
+  },
+  {
+    "name": "MigrationWiz",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/migrationwiz",
+    "description": "Cloud-based migration service for moving mailboxes, documents, and other workloads between platforms."
+  },
+  {
+    "name": "Nerdio",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/nerdio",
+    "description": "Multi-tenant management and automation for Microsoft cloud environments."
+  },
+  {
+    "name": "Office Protect",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/office-protect",
+    "description": "Microsoft 365 security management and MDR for MSPs"
+  },
+  {
+    "name": "SuperVision",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/supervision",
+    "description": "Standardize and monitor Microsoft tenant configurations for MSP clients."
+  },
+  {
+    "name": "Ydentic",
+    "category": "Microsoft 365 Management",
+    "url": "https://mspoutpost.com/tools/ydentic",
+    "description": "Manage customer users, applications, and cloud resources across tenants."
+  },
+  {
+    "name": "Hexnode UEM MSP",
+    "category": "Mobile Device Management",
+    "url": "https://mspoutpost.com/tools/hexnode-uem-msp",
+    "description": "Centralized endpoint enrollment, policy, application, and security management."
+  },
+  {
+    "name": "Jamf Pro",
+    "category": "Mobile Device Management",
+    "url": "https://mspoutpost.com/tools/jamf-pro",
+    "description": "Apple device management for configuring, securing, inventorying, and deploying Mac, iPhone, iPad, and Apple TV."
+  },
+  {
+    "name": "Kandji Device Management (now Iru)",
+    "category": "Mobile Device Management",
+    "url": "https://mspoutpost.com/tools/kandji-device-management-now-iru",
+    "description": "Cross-platform device management and security for MSP client tenants."
+  },
+  {
+    "name": "Microsoft Intune",
+    "category": "Mobile Device Management",
+    "url": "https://mspoutpost.com/tools/microsoft-intune",
+    "description": "Cloud endpoint and application management for devices across major operating systems."
+  },
+  {
+    "name": "Miradore",
+    "category": "Mobile Device Management",
+    "url": "https://mspoutpost.com/tools/miradore",
+    "description": "Cloud-based unified endpoint management for mobile devices and desktop operating systems."
+  },
+  {
+    "name": "Mobile Device Manager Plus MSP",
+    "category": "Mobile Device Management",
+    "url": "https://mspoutpost.com/tools/mobile-device-manager-plus-msp",
+    "description": "Multi-tenant mobile and endpoint management for MSP client fleets."
+  },
+  {
+    "name": "MobileRMM",
+    "category": "Mobile Device Management",
+    "url": "https://mspoutpost.com/tools/mobilermm",
+    "description": "Manage customer iOS and Android devices alongside existing RMM tools."
+  },
+  {
+    "name": "Scalefusion UEM",
+    "category": "Mobile Device Management",
+    "url": "https://mspoutpost.com/tools/scalefusion-uem",
+    "description": "Unified enrollment, policy, application, and patch management across endpoint platforms."
+  },
+  {
+    "name": "SOTI MobiControl",
+    "category": "Mobile Device Management",
+    "url": "https://mspoutpost.com/tools/soti-mobicontrol",
+    "description": "Enterprise mobility management for mobile, rugged, and industrial devices."
+  },
+  {
+    "name": "Auvik",
+    "category": "Network Monitoring",
+    "url": "https://mspoutpost.com/tools/auvik",
+    "description": "Automated network visibility and remote troubleshooting across MSP client environments."
+  },
+  {
+    "name": "Domotz",
+    "category": "Network Monitoring",
+    "url": "https://mspoutpost.com/tools/domotz",
+    "description": "Continuous visibility, monitoring, and remote access across MSP client networks."
+  },
+  {
+    "name": "eG Enterprise",
+    "category": "Network Monitoring",
+    "url": "https://mspoutpost.com/tools/eg-enterprise",
+    "description": "Turn infrastructure performance anomalies into Autotask tickets"
+  },
+  {
+    "name": "LogicMonitor",
+    "category": "Network Monitoring",
+    "url": "https://mspoutpost.com/tools/logicmonitor",
+    "description": "Infrastructure observability for metrics, logs, events, and traces across hybrid environments."
+  },
+  {
+    "name": "Obkio",
+    "category": "Network Monitoring",
+    "url": "https://mspoutpost.com/tools/obkio",
+    "description": "Continuous network performance monitoring for MSP and client networks."
+  },
+  {
+    "name": "OpManager MSP",
+    "category": "Network Monitoring",
+    "url": "https://mspoutpost.com/tools/opmanager-msp",
+    "description": "Multi-tenant network monitoring and remote operations for MSP client environments."
+  },
+  {
+    "name": "PRTG",
+    "category": "Network Monitoring",
+    "url": "https://mspoutpost.com/tools/prtg",
+    "description": "Infrastructure and network monitoring with device discovery, alerts, maps, and reporting."
+  },
+  {
+    "name": "Site24x7",
+    "category": "Network Monitoring",
+    "url": "https://mspoutpost.com/tools/site24x7",
+    "description": "Cloud-based infrastructure and network monitoring with MSP client management."
+  },
+  {
+    "name": "WatchGuard Cloud",
+    "category": "Network Monitoring",
+    "url": "https://mspoutpost.com/tools/watchguard-cloud",
+    "description": "Cloud management and visibility for WatchGuard security services"
+  },
+  {
+    "name": "Timus SASE",
+    "category": "Network Security Software",
+    "url": "https://mspoutpost.com/tools/timus-sase",
+    "description": "Keep SASE subscription changes aligned with Autotask billing records."
+  },
+  {
+    "name": "AnswerForce IT Answering Service",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/answerforce-it-answering-service",
+    "description": "Answer MSP calls and chats, then route service details into Autotask"
+  },
+  {
+    "name": "Benchmark 365",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/benchmark-365",
+    "description": "MSP-focused outsourced helpdesk with round-the-clock support and scalable service delivery."
+  },
+  {
+    "name": "Blancco for ITAD",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/blancco-for-itad",
+    "description": "Certified data erasure and workflow software for IT asset disposition providers."
+  },
+  {
+    "name": "Collabrance",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/collabrance",
+    "description": "White-label managed IT and security services for technology service providers."
+  },
+  {
+    "name": "CompuCycle",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/compucycle",
+    "description": "IT asset disposition, data destruction, electronics recycling and equipment recovery."
+  },
+  {
+    "name": "ConnectWise NOC Services",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/connectwise-noc-services",
+    "description": "Managed monitoring and IT operations support for service providers."
+  },
+  {
+    "name": "ERI",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/eri",
+    "description": "IT asset disposition with data destruction, asset tracking, reuse, and recycling services."
+  },
+  {
+    "name": "Field Nation",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/field-nation",
+    "description": "Find, dispatch, and pay field technicians for customer work"
+  },
+  {
+    "name": "Flexis 24/7 NOC Services",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/flexis-24-7-noc-services",
+    "description": "White-label 24/7 NOC monitoring and response for MSPs"
+  },
+  {
+    "name": "Inbay",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/inbay",
+    "description": "White-label helpdesk and NOC services that extend an MSP’s support team."
+  },
+  {
+    "name": "Infrassist",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/infrassist",
+    "description": "White-label helpdesk and infrastructure operations support for MSPs."
+  },
+  {
+    "name": "Iron Mountain ITAD",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/iron-mountain-itad",
+    "description": "Secure IT asset disposition services for end-user and data center equipment."
+  },
+  {
+    "name": "IT By Design",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/it-by-design",
+    "description": "NOC, service desk, and technical talent services for MSPs."
+  },
+  {
+    "name": "Live Virtual Help Desk",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/live-virtual-help-desk",
+    "description": "Outsourced help desk and NOC services for MSPs"
+  },
+  {
+    "name": "Mission Control",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/mission-control",
+    "description": "White-label NOC and help-desk support for IT service providers."
+  },
+  {
+    "name": "Retire-IT",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/retire-it",
+    "description": "IT asset disposition with inventory accountability, secure processing and value recovery."
+  },
+  {
+    "name": "Sims Lifecycle Services",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/sims-lifecycle-services",
+    "description": "IT asset disposition, recovery, and data center decommissioning services."
+  },
+  {
+    "name": "StaffVirtual",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/staffvirtual",
+    "description": "Dedicated offshore IT support teams for MSP service operations."
+  },
+  {
+    "name": "Support Adventure",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/support-adventure",
+    "description": "Remote staffing for MSP help desks and technical support teams."
+  },
+  {
+    "name": "WorkMarket",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/workmarket",
+    "description": "Source and manage independent technicians for onsite service work."
+  },
+  {
+    "name": "Worksent",
+    "category": "Outsourced Services",
+    "url": "https://mspoutpost.com/tools/worksent",
+    "description": "White-label NOC, helpdesk, SOC, and project support for MSPs."
+  },
+  {
+    "name": "Accelo",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/accelo",
+    "description": "Professional services automation linking sales, projects, time, and billing."
+  },
+  {
+    "name": "Autotask",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/autotask",
+    "description": "PSA for managing MSP tickets, projects, time, contracts, and billing."
+  },
+  {
+    "name": "CommandIT",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/commandit",
+    "description": "PSA and RMM platform for managing MSP client service and operations."
+  },
+  {
+    "name": "ConnectWise PSA",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/connectwise-psa",
+    "description": "PSA platform for MSP ticketing, service delivery, billing and operations."
+  },
+  {
+    "name": "DeskDay",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/deskday",
+    "description": "PSA and ticketing platform for MSP service desks."
+  },
+  {
+    "name": "Freshservice",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/freshservice",
+    "description": "IT service management with incident, asset and workflow tools."
+  },
+  {
+    "name": "Gorelo",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/gorelo",
+    "description": "Integrated PSA, RMM, documentation and billing for MSP operations."
+  },
+  {
+    "name": "HaloPSA",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/halopsa",
+    "description": "PSA platform for managing MSP service delivery and operations."
+  },
+  {
+    "name": "ITFlow",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/itflow",
+    "description": "Open-source platform for client IT records, tickets and billing."
+  },
+  {
+    "name": "Kaseya BMS",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/kaseya-bms",
+    "description": "PSA for MSP service desk, projects, finance and business operations."
+  },
+  {
+    "name": "Rev.io PSA",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/rev-io-psa",
+    "description": "Cloud PSA connecting MSP service delivery, operations, and billing."
+  },
+  {
+    "name": "ServiceTree Connect",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/servicetree-connect",
+    "description": "Ticketing workspace and client portal layered over Autotask"
+  },
+  {
+    "name": "SuperOps",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/superops",
+    "description": "Unified PSA and RMM for client service and device operations."
+  },
+  {
+    "name": "Syncro",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/syncro",
+    "description": "Integrated PSA, RMM and remote access for MSP service operations."
+  },
+  {
+    "name": "Zoho Desk",
+    "category": "PSA",
+    "url": "https://mspoutpost.com/tools/zoho-desk",
+    "description": "Omnichannel help desk with ticket workflows and customer self-service."
+  },
+  {
+    "name": "ezeep",
+    "category": "Print Management",
+    "url": "https://mspoutpost.com/tools/ezeep",
+    "description": "Cloud print management for distributed users, locations, and devices."
+  },
+  {
+    "name": "PaperCut (Hive / MF / NG)",
+    "category": "Print Management",
+    "url": "https://mspoutpost.com/tools/papercut-hive-mf-ng",
+    "description": "Print management options for cloud and on-premises printer fleets."
+  },
+  {
+    "name": "uniFLOW",
+    "category": "Print Management",
+    "url": "https://mspoutpost.com/tools/uniflow",
+    "description": "Print and scan management platform for secure, cost-aware document workflows."
+  },
+  {
+    "name": "Vasion Print (formerly PrinterLogic)",
+    "category": "Print Management",
+    "url": "https://mspoutpost.com/tools/vasion-print-formerly-printerlogic",
+    "description": "Cloud print management with direct IP printing and self-service deployment."
+  },
+  {
+    "name": "Y Soft SAFEQ",
+    "category": "Print Management",
+    "url": "https://mspoutpost.com/tools/y-soft-safeq",
+    "description": "Print management and document workflows available in cloud and on-premises deployments."
+  },
+  {
+    "name": "Google Workspace",
+    "category": "Productivity and Collaboration",
+    "url": "https://mspoutpost.com/tools/google-workspace",
+    "description": "Business email, meetings, documents and cloud collaboration in one workspace."
+  },
+  {
+    "name": "Microsoft 365",
+    "category": "Productivity and Collaboration",
+    "url": "https://mspoutpost.com/tools/microsoft-365",
+    "description": "Business productivity applications, email, cloud storage and collaboration services."
+  },
+  {
+    "name": "Microsoft Exchange Online",
+    "category": "Productivity and Collaboration",
+    "url": "https://mspoutpost.com/tools/microsoft-exchange-online",
+    "description": "Hosted business email with mailbox security and centralized administration."
+  },
+  {
+    "name": "Microsoft Outlook",
+    "category": "Productivity and Collaboration",
+    "url": "https://mspoutpost.com/tools/microsoft-outlook",
+    "description": "Email, calendar, tasks and contacts across desktop, web and mobile."
+  },
+  {
+    "name": "Slack",
+    "category": "Productivity and Collaboration",
+    "url": "https://mspoutpost.com/tools/slack",
+    "description": "Team communication through channels, messaging, calls and connected workflows."
+  },
+  {
+    "name": "BrightGauge (ConnectWise Reports and Dashboards)",
+    "category": "QBR and Client Reporting",
+    "url": "https://mspoutpost.com/tools/brightgauge-connectwise-reports-and-dashboards",
+    "description": "Reports and dashboards for service and business performance data."
+  },
+  {
+    "name": "Bumblebee",
+    "category": "QBR and Client Reporting",
+    "url": "https://mspoutpost.com/tools/bumblebee",
+    "description": "Build client reports from MSP service and business data."
+  },
+  {
+    "name": "CloudRadial",
+    "category": "QBR and Client Reporting",
+    "url": "https://mspoutpost.com/tools/cloudradial",
+    "description": "Branded client portal for tickets, service information and account engagement."
+  },
+  {
+    "name": "InsideLoop",
+    "category": "QBR and Client Reporting",
+    "url": "https://mspoutpost.com/tools/insideloop",
+    "description": "Embed client surveys and technician insights in Autotask tickets."
+  },
+  {
+    "name": "MSPCFO",
+    "category": "QBR and Client Reporting",
+    "url": "https://mspoutpost.com/tools/mspcfo",
+    "description": "Financial and operational reporting from Autotask and ConnectWise"
+  },
+  {
+    "name": "Narmada",
+    "category": "QBR and Client Reporting",
+    "url": "https://mspoutpost.com/tools/narmada",
+    "description": "Assessments, roadmaps and client reporting for MSPs"
+  },
+  {
+    "name": "Optimize for Autotask",
+    "category": "QBR and Client Reporting",
+    "url": "https://mspoutpost.com/tools/optimize-for-autotask",
+    "description": "Add dashboards, reports, KPIs, and workflows around Autotask data."
+  },
+  {
+    "name": "Propel Your MSP",
+    "category": "QBR and Client Reporting",
+    "url": "https://mspoutpost.com/tools/propel-your-msp",
+    "description": "Interactive vCIO and QBR planning for MSP client meetings"
+  },
+  {
+    "name": "PSA Insights",
+    "category": "QBR and Client Reporting",
+    "url": "https://mspoutpost.com/tools/psa-insights",
+    "description": "Use AI analysis to find patterns in Autotask service desk tickets."
+  },
+  {
+    "name": "Resplendent Data",
+    "category": "QBR and Client Reporting",
+    "url": "https://mspoutpost.com/tools/resplendent-data",
+    "description": "Build dashboards from Autotask and other business data."
+  },
+  {
+    "name": "ScalePad Lifecycle Manager",
+    "category": "QBR and Client Reporting",
+    "url": "https://mspoutpost.com/tools/scalepad-lifecycle-manager",
+    "description": "Client success planning and asset lifecycle management for MSPs."
+  },
+  {
+    "name": "Strategy Overview",
+    "category": "QBR and Client Reporting",
+    "url": "https://mspoutpost.com/tools/strategy-overview",
+    "description": "Prepare client QBRs, IT assessments, and technology roadmaps."
+  },
+  {
+    "name": "Benji Pays",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/benji-pays",
+    "description": "Automate invoice payment collection for Autotask customers"
+  },
+  {
+    "name": "Bill & Pay for Autotask",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/bill-pay-for-autotask",
+    "description": "Send invoices and collect online payments from Autotask customers"
+  },
+  {
+    "name": "CloudOlive",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/cloudolive",
+    "description": "Reconcile cloud vendor costs against client contracts and Autotask billing"
+  },
+  {
+    "name": "ConnectBooster",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/connectbooster",
+    "description": "Automate invoice delivery and customer payments for Autotask"
+  },
+  {
+    "name": "ConnectWise CPQ",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/connectwise-cpq",
+    "description": "Quote and proposal automation for MSPs."
+  },
+  {
+    "name": "Datagate Telecom Billing",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/datagate-telecom-billing",
+    "description": "Rate and invoice telecom services through your MSP billing workflow"
+  },
+  {
+    "name": "Givemefive",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/givemefive",
+    "description": "Shape MSP service offers and pricing with an interactive builder."
+  },
+  {
+    "name": "Gradient MSP",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/gradient-msp",
+    "description": "Automated service-provider billing data operations."
+  },
+  {
+    "name": "ITQuoter Cloud",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/itquoter-cloud",
+    "description": "Cloud CPQ and quoting for MSPs"
+  },
+  {
+    "name": "MSPlus",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/msplus",
+    "description": "Automate Microsoft CSP and managed-service billing for Autotask."
+  },
+  {
+    "name": "OneBill Revenue Management Platform",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/onebill-revenue-management",
+    "description": "Quote-to-cash billing and revenue operations for service providers"
+  },
+  {
+    "name": "PandaDoc",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/pandadoc",
+    "description": "Document workflow software for proposals, quotes, contracts, and signatures."
+  },
+  {
+    "name": "Quoter",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/quoter",
+    "description": "Proposal and quoting software for IT service providers."
+  },
+  {
+    "name": "QuoteWerks",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/quotewerks",
+    "description": "Sales quoting and proposal software with desktop and cloud editions."
+  },
+  {
+    "name": "Salesbuildr",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/salesbuildr",
+    "description": "MSP sales platform for prospecting, quoting, and PSA handoff."
+  },
+  {
+    "name": "ScopeStack",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/scopestack",
+    "description": "Services CPQ for scoping, pricing and statements of work."
+  },
+  {
+    "name": "Stock in the Channel",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/stock-in-the-channel",
+    "description": "Build supplier-priced quotes and convert accepted offers into orders."
+  },
+  {
+    "name": "Sync 365",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/sync-365",
+    "description": "Reconcile Microsoft and third-party license billing with Autotask."
+  },
+  {
+    "name": "VARStreet XC",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/varstreet-xc",
+    "description": "Quoting, procurement and ecommerce for IT resellers"
+  },
+  {
+    "name": "ZenContract",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/zencontract",
+    "description": "Create reusable proposals with pricing logic and sales analytics."
+  },
+  {
+    "name": "Zomentum",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/zomentum",
+    "description": "Sales and proposal workflows for MSPs."
+  },
+  {
+    "name": "Zomentum Connect",
+    "category": "Quoting and Billing",
+    "url": "https://mspoutpost.com/tools/zomentum-connect",
+    "description": "Automate Microsoft NCE license synchronization and Autotask billing."
+  },
+  {
+    "name": "Action1",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/action1",
+    "description": "Cloud endpoint management for patching, vulnerability remediation and remote support."
+  },
+  {
+    "name": "Addigy",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/addigy",
+    "description": "Cloud-based management for Apple devices and services."
+  },
+  {
+    "name": "Atera",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/atera",
+    "description": "Remote monitoring and PSA tools for MSP service delivery."
+  },
+  {
+    "name": "ConnectWise Automate",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/connectwise-automate",
+    "description": "Monitor and automate endpoint management for MSP environments"
+  },
+  {
+    "name": "ConnectWise RMM",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/connectwise-rmm",
+    "description": "Remote monitoring, patch automation and network management for MSP client devices."
+  },
+  {
+    "name": "Datto RMM",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/datto-rmm",
+    "description": "Cloud RMM for monitoring, patching, and supporting client endpoints."
+  },
+  {
+    "name": "ImmyBot",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/immybot",
+    "description": "Automate Windows device setup, configuration, and software deployment."
+  },
+  {
+    "name": "Kaseya VSA",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/kaseya-vsa",
+    "description": "Remote monitoring and endpoint management for IT teams."
+  },
+  {
+    "name": "Level",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/level",
+    "description": "Browser-based RMM for monitoring and managing client endpoints."
+  },
+  {
+    "name": "LogMeIn Resolve",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/logmein-resolve",
+    "description": "Remote support and endpoint management for IT teams."
+  },
+  {
+    "name": "Mosyle Fuse MSP",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/mosyle-fuse-msp",
+    "description": "Apple device management and security for MSPs."
+  },
+  {
+    "name": "MSP Builder RMM Suite",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/msp-builder-rmm-suite",
+    "description": "Automation and intelligent alert-to-ticket processing for Kaseya VSA"
+  },
+  {
+    "name": "N-central",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/n-central",
+    "description": "Scalable RMM and unified endpoint management for MSPs."
+  },
+  {
+    "name": "Naverisk",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/naverisk",
+    "description": "All-in-one RMM, service desk, and PSA for MSP operations."
+  },
+  {
+    "name": "NinjaOne",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/ninjaone",
+    "description": "Endpoint management and support for distributed IT environments."
+  },
+  {
+    "name": "OptiTune",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/optitune",
+    "description": "Monitor and manage endpoints using OptiTune and Autotask"
+  },
+  {
+    "name": "Pulseway",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/pulseway",
+    "description": "Remote monitoring and management for IT teams and MSPs."
+  },
+  {
+    "name": "servereye RMM",
+    "category": "RMM",
+    "url": "https://mspoutpost.com/tools/servereye",
+    "description": "Monitoring and remote administration for customer IT systems"
+  },
+  {
+    "name": "AnyDesk",
+    "category": "Remote Support",
+    "url": "https://mspoutpost.com/tools/anydesk",
+    "description": "Remote desktop software for support, maintenance, and unattended access."
+  },
+  {
+    "name": "BeyondTrust Remote Support",
+    "category": "Remote Support",
+    "url": "https://mspoutpost.com/tools/beyondtrust-remote-support",
+    "description": "Remote support for attended and unattended endpoint sessions."
+  },
+  {
+    "name": "LogMeIn Rescue",
+    "category": "Remote Support",
+    "url": "https://mspoutpost.com/tools/logmein-rescue",
+    "description": "Remote support sessions for technicians assisting users across desktop and mobile devices."
+  },
+  {
+    "name": "NinjaOne Remote",
+    "category": "Remote Support",
+    "url": "https://mspoutpost.com/tools/ninjaone-remote",
+    "description": "Remote access and support integrated with NinjaOne endpoint management."
+  },
+  {
+    "name": "pcvisit ProfiSupport",
+    "category": "Remote Support",
+    "url": "https://mspoutpost.com/tools/pcvisit-profisupport",
+    "description": "Remote access software for IT support sessions"
+  },
+  {
+    "name": "ScreenConnect",
+    "category": "Remote Support",
+    "url": "https://mspoutpost.com/tools/screenconnect",
+    "description": "Remote support and access software for technician-led troubleshooting."
+  },
+  {
+    "name": "Splashtop",
+    "category": "Remote Support",
+    "url": "https://mspoutpost.com/tools/splashtop",
+    "description": "Remote access and support software for managed devices."
+  },
+  {
+    "name": "TeamViewer",
+    "category": "Remote Support",
+    "url": "https://mspoutpost.com/tools/teamviewer",
+    "description": "Remote access and support for troubleshooting distributed devices."
+  },
+  {
+    "name": "Zoho Assist",
+    "category": "Remote Support",
+    "url": "https://mspoutpost.com/tools/zoho-assist",
+    "description": "Remote support and unattended access for customer endpoints."
+  },
+  {
+    "name": "Delmar Insights Analytics",
+    "category": "Reporting and Analytics",
+    "url": "https://mspoutpost.com/tools/delmar-insights-analytics",
+    "description": "Turn PSA data into financial and operational reporting"
+  },
+  {
+    "name": "Adlumin MDR/XDR",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/adlumin-mdr-xdr",
+    "description": "Managed detection and response built on an XDR security operations platform."
+  },
+  {
+    "name": "AgileBlue",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/agileblue",
+    "description": "Manage SOC cases and security tickets through Autotask."
+  },
+  {
+    "name": "Arctic Wolf Aurora / MDR",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/arctic-wolf-aurora-mdr",
+    "description": "Managed detection and response with 24/7 security operations."
+  },
+  {
+    "name": "ConnectWise SIEM",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/connectwise-siem",
+    "description": "Security event monitoring and response services for MSPs"
+  },
+  {
+    "name": "Coro Cybersecurity Platform",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/coro-cybersecurity-platform",
+    "description": "Modular cybersecurity platform for endpoint, email, cloud, identity and network protection."
+  },
+  {
+    "name": "Covalence",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/covalence",
+    "description": "Managed detection and response now offered as Field Effect MDR."
+  },
+  {
+    "name": "D3 XGEN SOAR",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/d3-xgen-soar",
+    "description": "Orchestrate security incident response and Autotask ticket workflows"
+  },
+  {
+    "name": "Deepwatch Managed Security Platform",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/deepwatch-managed-security-platform",
+    "description": "Managed detection and response platform for continuous security operations."
+  },
+  {
+    "name": "eSentire MDR",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/esentire-mdr",
+    "description": "Managed detection and response with round-the-clock security operations."
+  },
+  {
+    "name": "Expel MDR",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/expel-mdr",
+    "description": "Managed detection and response across endpoint, cloud, identity, and SaaS."
+  },
+  {
+    "name": "Guardian360",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/guardian360-lighthouse",
+    "description": "Monitor vulnerabilities and security risks across networks and web applications."
+  },
+  {
+    "name": "LogRhythm SIEM",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/logrhythm-siem",
+    "description": "SIEM for collecting, processing and analyzing security event data."
+  },
+  {
+    "name": "Lumu Defender",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/lumu-defender",
+    "description": "Automated compromise detection and response for security teams"
+  },
+  {
+    "name": "Red Canary MDR",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/red-canary-mdr",
+    "description": "Managed detection and response across endpoint, identity and cloud signals."
+  },
+  {
+    "name": "SOCSoter",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/socsoter",
+    "description": "Manage security alerts and escalations through a partner SOC portal."
+  },
+  {
+    "name": "Todyl SOC Platform",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/todyl-soc-platform",
+    "description": "Unified cybersecurity platform combining SASE, endpoint, SIEM, MXDR, and GRC."
+  },
+  {
+    "name": "Vijilan ThreatRespond",
+    "category": "SIEM and SOC",
+    "url": "https://mspoutpost.com/tools/vijilan-threatrespond",
+    "description": "Managed XDR and SOC response built around existing security tools"
+  },
+  {
+    "name": "SaaS Alerts",
+    "category": "SaaS Security",
+    "url": "https://mspoutpost.com/tools/saas-alerts",
+    "description": "Threat detection and response for managed SaaS environments"
+  },
+  {
+    "name": "Breach Secure Now",
+    "category": "Security Awareness",
+    "url": "https://mspoutpost.com/tools/breach-secure-now",
+    "description": "MSP training platform for cybersecurity, AI use, and compliance."
+  },
+  {
+    "name": "ESET Cybersecurity Awareness Training",
+    "category": "Security Awareness",
+    "url": "https://mspoutpost.com/tools/eset-cybersecurity-awareness-training",
+    "description": "Employee security training and simulated phishing exercises."
+  },
+  {
+    "name": "Hook Security",
+    "category": "Security Awareness",
+    "url": "https://mspoutpost.com/tools/hook-security",
+    "description": "Managed security awareness training and phishing simulations for MSP client portfolios."
+  },
+  {
+    "name": "Huntress SAT",
+    "category": "Security Awareness",
+    "url": "https://mspoutpost.com/tools/huntress-sat",
+    "description": "Managed security awareness training with phishing simulations and coaching."
+  },
+  {
+    "name": "INFIMA Security Awareness",
+    "category": "Security Awareness",
+    "url": "https://mspoutpost.com/tools/infima-security-awareness",
+    "description": "Security awareness and human risk management for MSPs"
+  },
+  {
+    "name": "KnowBe4",
+    "category": "Security Awareness",
+    "url": "https://mspoutpost.com/tools/knowbe4",
+    "description": "Security awareness training with phishing simulations and real-time coaching."
+  },
+  {
+    "name": "NINJIO AWARE",
+    "category": "Security Awareness",
+    "url": "https://mspoutpost.com/tools/ninjio-aware",
+    "description": "Short-form security awareness training built around animated threat stories."
+  },
+  {
+    "name": "Phished",
+    "category": "Security Awareness",
+    "url": "https://mspoutpost.com/tools/phished",
+    "description": "Automated security awareness training and phishing simulations."
+  },
+  {
+    "name": "Proofpoint Security Awareness Training",
+    "category": "Security Awareness",
+    "url": "https://mspoutpost.com/tools/proofpoint-security-awareness-training",
+    "description": "Security awareness training and threat simulations for employees."
+  },
+  {
+    "name": "usecure",
+    "category": "Security Awareness",
+    "url": "https://mspoutpost.com/tools/usecure",
+    "description": "Automated human-risk management for MSP client security programs."
+  },
+  {
+    "name": "1Stream",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/1stream",
+    "description": "Deliver cloud communications and contact centre workflows for MSP clients"
+  },
+  {
+    "name": "3CX Phone System",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/3cx-phone-system",
+    "description": "Business phone system with calling, video and messaging."
+  },
+  {
+    "name": "Aiva IQ",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/aiva-iq",
+    "description": "Use AI voice assistants to capture calls and create service tickets."
+  },
+  {
+    "name": "Bubble CTI for Autotask",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/bubble-cti",
+    "description": "Telephony controls and caller context inside Autotask"
+  },
+  {
+    "name": "CyTrack Autotask Integration",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/cytrack-autotask-integration",
+    "description": "Connect business telephony and contact centre workflows to Autotask"
+  },
+  {
+    "name": "Cytracom Desktop Autotask Integration",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/cytracom-desktop-autotask-integration",
+    "description": "View Autotask contacts and tickets alongside business calls"
+  },
+  {
+    "name": "Dialpad",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/dialpad",
+    "description": "Cloud business calling with live transcription and AI call summaries."
+  },
+  {
+    "name": "Gamma UCaaS",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/gamma-ucaas",
+    "description": "Cloud communications services combining voice and collaboration tools."
+  },
+  {
+    "name": "GoTo Connect",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/goto-connect",
+    "description": "Cloud phone system with calling, meetings and team messaging."
+  },
+  {
+    "name": "Intermedia Unite",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/intermedia-unite",
+    "description": "Cloud communications combining business phone, video, messaging and SMS."
+  },
+  {
+    "name": "Invoco Autotask Telephony Integration",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/invoco-autotask-telephony",
+    "description": "Connect hosted phone calls and call history with Autotask"
+  },
+  {
+    "name": "Loop Communications",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/loop-communications",
+    "description": "Connect hosted business phone calls with Autotask customer records."
+  },
+  {
+    "name": "RingCentral RingEX",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/ringcentral-ringex",
+    "description": "Cloud communications app for business calls, messaging, meetings, and fax."
+  },
+  {
+    "name": "RoutIT cloud communications",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/routit-cloud-communications",
+    "description": "Business cloud communications and connectivity services"
+  },
+  {
+    "name": "VoiceWorks",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/voiceworks",
+    "description": "Cloud communications and collaboration services for businesses"
+  },
+  {
+    "name": "Wildix UCaaS",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/wildix-ucaas",
+    "description": "Cloud unified communications for voice, messaging and video."
+  },
+  {
+    "name": "Zoom Phone",
+    "category": "UCaaS and VoIP",
+    "url": "https://mspoutpost.com/tools/zoom-phone",
+    "description": "Cloud phone service with call routing and centralized administration."
+  },
+  {
+    "name": "ConnectSecure Vulnerability Management",
+    "category": "Vulnerability Management",
+    "url": "https://mspoutpost.com/tools/connectsecure-vulnerability-management",
+    "description": "A vulnerability lifecycle workflow for scanning, prioritizing, and remediating MSP client risk."
+  },
+  {
+    "name": "Holm Security Next-Gen Vulnerability Management",
+    "category": "Vulnerability Management",
+    "url": "https://mspoutpost.com/tools/holm-security-next-gen-vulnerability-management",
+    "description": "Risk-based vulnerability management across IT and cloud assets."
+  },
+  {
+    "name": "InsightVM",
+    "category": "Vulnerability Management",
+    "url": "https://mspoutpost.com/tools/insightvm",
+    "description": "Vulnerability management for discovering, prioritizing and tracking exposure."
+  },
+  {
+    "name": "Intruder",
+    "category": "Vulnerability Management",
+    "url": "https://mspoutpost.com/tools/intruder",
+    "description": "Continuous vulnerability scanning and prioritization across infrastructure, applications, and cloud."
+  },
+  {
+    "name": "Pentest-Tools.com Platform",
+    "category": "Vulnerability Management",
+    "url": "https://mspoutpost.com/tools/pentest-tools-com-platform",
+    "description": "Automated toolkit for penetration testing and vulnerability assessment."
+  },
+  {
+    "name": "Qualys VMDR",
+    "category": "Vulnerability Management",
+    "url": "https://mspoutpost.com/tools/qualys-vmdr",
+    "description": "Cloud platform for vulnerability management, detection and response."
+  },
+  {
+    "name": "SEC AUDITOR",
+    "category": "Vulnerability Management",
+    "url": "https://mspoutpost.com/tools/sec-auditor",
+    "description": "Monitor Active Directory and Entra ID security across client environments."
+  },
+  {
+    "name": "Tenable Nessus",
+    "category": "Vulnerability Management",
+    "url": "https://mspoutpost.com/tools/tenable-nessus",
+    "description": "Vulnerability scanner for infrastructure, configuration, and web assets."
+  },
+  {
+    "name": "Tenable One",
+    "category": "Vulnerability Management",
+    "url": "https://mspoutpost.com/tools/tenable-one",
+    "description": "Exposure management for asset visibility and vulnerability prioritization."
+  },
+  {
+    "name": "Dynamics 365 Project Operations",
+    "category": "Workflow and Project Management",
+    "url": "https://mspoutpost.com/tools/dynamics-365-project-operations",
+    "description": "Project operations for service organizations"
+  },
+  {
+    "name": "memtime",
+    "category": "Workflow and Project Management",
+    "url": "https://mspoutpost.com/tools/memtime",
+    "description": "Automatic activity tracking to prepare accurate time entries"
+  },
+  {
+    "name": "Moovila Perfect Project",
+    "category": "Workflow and Project Management",
+    "url": "https://mspoutpost.com/tools/moovila-perfect-project",
+    "description": "Monitor project risk and automate timelines across Autotask projects."
+  },
+  {
+    "name": "MSPbots",
+    "category": "Workflow and Project Management",
+    "url": "https://mspoutpost.com/tools/mspbots",
+    "description": "AI ticket automation and business intelligence for MSPs"
+  },
+  {
+    "name": "Proxuma",
+    "category": "Workflow and Project Management",
+    "url": "https://mspoutpost.com/tools/proxuma",
+    "description": "Project planning and resource visibility using Autotask data"
+  },
+  {
+    "name": "Rocketship",
+    "category": "Workflow and Project Management",
+    "url": "https://mspoutpost.com/tools/rocketship",
+    "description": "Automate ticket triage, dispatch, scheduling, and escalation in Autotask"
+  },
+  {
+    "name": "Strety",
+    "category": "Workflow and Project Management",
+    "url": "https://mspoutpost.com/tools/strety",
+    "description": "Link business operating system tasks and goals with Autotask work."
+  },
+  {
+    "name": "TimeZest",
+    "category": "Workflow and Project Management",
+    "url": "https://mspoutpost.com/tools/timezest",
+    "description": "Schedule client appointments directly from Autotask service tickets."
+  },
+  {
+    "name": "TopLeft",
+    "category": "Workflow and Project Management",
+    "url": "https://mspoutpost.com/tools/topleft",
+    "description": "Visual Kanban boards for MSP tickets and projects"
+  },
+  {
+    "name": "TeamGPS",
+    "category": "Workforce Management",
+    "url": "https://mspoutpost.com/tools/teamgps",
+    "description": "MSP performance management and employee engagement"
+  }
+]
